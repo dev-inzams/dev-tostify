@@ -1,8 +1,8 @@
 #toast-container {
     position: fixed;
-    bottom: 20px;
     right: 20px;
     z-index: 1000;
+    top: 20px;
 }
 
 .toast {
