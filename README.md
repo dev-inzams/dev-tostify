@@ -25,7 +25,7 @@
 
 Remember that this example is a basic implementation of toast notifications using HTML, CSS, and JavaScript. It provides a starting point that you can expand and customize based on your specific requirements.
 
-if you to want to use in laravel you can use this
+if you to want to use in laravel you can use this</br>
 	async function updateCategory() {
         try{
             let updatecategory = document.getElementById('updatecategory').value
